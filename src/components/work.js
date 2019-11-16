@@ -36,14 +36,14 @@ function Work() {
           />
           <Project
             logo={KellerkindLogo()}
-            title="Kellerkind"
-            abstract="A social event company organizing two festivals for electronic music and art with ~20.000 yearly visitors north of munich."
+            title="Web Performance Optimization"
+            abstract="A case-study on performance and user-interface improvement for webcompat. Identified bottlenecks in FCP, FMP and TTI rendering with Lighthouse and Pagespeed insights"
             link={KellerkindLink}
           />
           <Project
             logo={BamLogo()}
-            title="Bäm"
-            abstract="Climbing products and other stuff that gives you the bäm effect."
+            title="Landing Pages for smooth landing"
+            abstract="Experimenting different design for different use cases."
             link={BamLink}
           />
         </Fragment>

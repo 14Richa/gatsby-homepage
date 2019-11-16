@@ -7,7 +7,7 @@ import SectionHeading from 'components/sectionHeading'
 import ScenographicsLogo from 'img/scenographicslogo'
 
 const ScenographicsLink = (
-  <a href="http://medium.com/scenographics">Read More on Medium ↗</a>
+  <a href="https://14richa.github.io/" target = "_blank">Read More on Github. ↗</a>
 )
 
 function Writing() {
@@ -17,7 +17,7 @@ function Writing() {
       leftColumn={<SectionHeading>Writing</SectionHeading>}
       rightColumn={
         <Project
-          title="Scenographics"
+          title="geekGirl"
           abstract="Tech tidbits and other good stuff"
           link={ScenographicsLink}
         />
