@@ -12,7 +12,7 @@ import BamLogo from 'img/bamlogo'
 
 const LifeTimeLink = <Link to="/lifetime">Read More</Link>
 const PalettteLink = <a href = "https://videos-react.herokuapp.com" target = "_blank"> Read More</a>
-const KellerkindLink = <Link to="/kellerkind">Read More</Link>
+const KellerkindLink = <a href = "https://14richa.github.io/2019-03-23/casestudy1" target = "_blank">Read More</a>
 const BamLink = <Link to="/bam">Read More</Link>
 
 function Work() {
