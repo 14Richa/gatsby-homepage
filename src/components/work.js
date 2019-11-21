@@ -23,25 +23,25 @@ function Work() {
       rightColumn={
         <Fragment>
           <Project
-            logo={LifeTimeLogo()}
+            // logo={LifeTimeLogo()}
             title="Twitch with a Twist"
             abstract="A streaming web-app connected with streaming software and streamed to a localhost."
             link={LifeTimeLink}
           />
           <Project
-            logo={PalettteAppLogo()}
+            // logo={PalettteAppLogo()}
             title="Minimal Youtube Clone"
             abstract="Minimal video search app without any clutter."
             link={PalettteLink}
           />
           <Project
-            logo={KellerkindLogo()}
+            // logo={KellerkindLogo()}
             title="Web Performance Optimization"
             abstract="A case-study on performance and user-interface improvement for webcompat. Identified bottlenecks in FCP, FMP and TTI rendering with Lighthouse and Pagespeed insights"
             link={KellerkindLink}
           />
           <Project
-            logo={BamLogo()}
+            // logo={BamLogo()}
             title="Landing Pages for smooth landing"
             abstract="Experimenting different design for different use cases."
             link={BamLink}

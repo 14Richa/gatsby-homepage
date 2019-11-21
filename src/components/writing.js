@@ -10,7 +10,7 @@ const ScenographicsLink = (
   <a href="https://14richa.github.io/" target = "_blank">Read More on Github. ↗</a>
 )
 
-function Writing() {
+  function Writing() {
   return (
     <TwoColumns
       wide
@@ -18,12 +18,14 @@ function Writing() {
       rightColumn={
         <Project
           title="geekGirl"
-          abstract="Tech tidbits and other good stuff"
+          abstract="Tech tidbits and other good stuff. Curation of links, snippets and meanderings."
           link={ScenographicsLink}
         />
       }
     />
   )
 }
+
+
 
 export default Writing

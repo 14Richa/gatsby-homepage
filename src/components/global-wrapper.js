@@ -50,6 +50,7 @@ class GlobalWrapper extends React.Component {
           
           <link rel="manifest" href="/manifest.json" />
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
           <meta name="theme-color" content="#ffffff" />
         </Helmet>
         <GlobalStyle displayOutlines={this.state.displayOutlines} />
