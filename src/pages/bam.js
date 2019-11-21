@@ -23,6 +23,9 @@ import Tour1 from './tour1.png';
 import Tour2 from './tour2.png';
 import Tour3 from './tour3.png';
 
+const PalettteLink = <a href = " https://14richa.github.io/Responsive-Design-Sass/" target = "_blank"> Read More</a>
+const LandingPage1= <a href = "https://14richa.github.io/UI-Flexbox/" target = "_blank"> Read More </a>
+const LandingPage2 = <a href = "https://14richa.github.io/UI-Grid/" target = "_blank"> Read More </a>
 
 const Section = styled.section`
   margin: 64px 0;
@@ -34,29 +37,34 @@ const Section = styled.section`
 function Bam() {
   return (
     <GlobalWrapper>
+    
     <div className = {`tour`}>
 
     <div className = {`card1`}>
     <LandingPage 
     img = {Tour1}
-    title = "Project1"
-    text = "Some example text" />
+    title = "Landing Page 1"
+    text = "Some example text"
+   
+    link={PalettteLink} />
     </div>
 
 
     <div className = {`card2`} >
     <LandingPage 
     img = {Tour2}
-    title = "Project2"
-    text = "Some example text" />
+    title = "Landing Page 2"
+    text = "Some example text"
+    link = {LandingPage1} />
     </div>
 
 
     <div className = {`card3`}>
     <LandingPage 
     img = {Tour3}
-    title = "Project3" 
+    title = "Landing Page 3" 
     text = "Some example text"
+    link = {LandingPage2}
     />
     </div>
     </div>
