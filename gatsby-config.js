@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
   siteMetadata: {
-    title: `Gabriel Adorf`,
+    title: `Richa Sharma`,
   },
   plugins: [
     {
@@ -23,7 +23,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-107072121-1',
+        trackingId: 'UA-153155652-1',
       },
     },
   ],
