@@ -27,7 +27,7 @@ import Tour5 from './tour5.png';
 import Tour6 from './tour6.png';
 
 const PalettteLink = <a href = "https://14richa.github.io/Responsive-Design-Sass/" target = "_blank"> Read More</a>
-const LandingPage1= <a href = "https://14richa.github.io/UI-Flexbox/" target = "_blank"> Read More </a>
+const LandingPage1 = <a href = "https://14richa.github.io/UI-Flexbox/" target = "_blank"> Read More </a>
 const LandingPage2 = <a href = "https://14richa.github.io/UI-Grid/" target = "_blank"> Read More </a>
 const LandingPage3 = <a href = "https://14richa.github.io/landing-Page1/" targrt = "_blank"> Read More </a>
 const LandingPage4 = <a href = "https://14richa.github.io/landing-Page2/" target = "_blank"> Read More </a>
@@ -45,7 +45,7 @@ function Bam() {
     
     <div className = {`tour`}>
 
-    <div className = {`card1`}>
+    <div >
     <LandingPage 
     img = {Tour1}
     title = "Landing Page - Tours"
@@ -55,7 +55,7 @@ function Bam() {
     </div>
 
 
-    <div className = {`card2`} >
+    <div >
     <LandingPage 
     img = {Tour2}
     title = "Landing Page - Hotel reviews"
@@ -64,7 +64,7 @@ function Bam() {
     </div>
 
 
-    <div className = {`card3`}>
+    <div >
     <LandingPage 
     img = {Tour3}
     title = "Landing Page - Realtors" 
@@ -73,7 +73,7 @@ function Bam() {
     />
     </div>
 
-    <div className = {`card3`}>
+    <div >
     <LandingPage 
     img = {Tour4}
     title = "Digital Visiting Card" 
@@ -82,7 +82,7 @@ function Bam() {
     />
     </div>
 
-    <div className = {`card3`}>
+    <div >
     <LandingPage 
     img = {Tour5}
     title = "Landing Page - Tours" 
@@ -92,7 +92,7 @@ function Bam() {
     </div>
 
 
-    <div className = {`card3`}>
+    <div >
     <LandingPage 
     img = {Tour6}
     title = "Split screen Sign-up Page" 
