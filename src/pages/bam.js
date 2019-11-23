@@ -48,8 +48,8 @@ function Bam() {
     <div className = {`card1`}>
     <LandingPage 
     img = {Tour1}
-    title = "Landing Page 1"
-    text = "Some example text"
+    title = "Landing Page - Tours"
+    text = "Responsive page designed for travel websites. HTML5, CSS, SASS"
    
     link={PalettteLink} />
     </div>
@@ -58,8 +58,8 @@ function Bam() {
     <div className = {`card2`} >
     <LandingPage 
     img = {Tour2}
-    title = "Landing Page 2"
-    text = "Some example text"
+    title = "Landing Page - Hotel reviews"
+    text = "Responsive page designed for hotels where customers can leave comments/reviews."
     link = {LandingPage1} />
     </div>
 
@@ -67,8 +67,8 @@ function Bam() {
     <div className = {`card3`}>
     <LandingPage 
     img = {Tour3}
-    title = "Landing Page 3" 
-    text = "Some example text"
+    title = "Landing Page - Realtors" 
+    text = "Landing page which is suitable for businesses who want to showcase a lot of pictures/art. Extensive use of Flexbox and Grid."
     link = {LandingPage2}
     />
     </div>
@@ -76,8 +76,8 @@ function Bam() {
     <div className = {`card3`}>
     <LandingPage 
     img = {Tour4}
-    title = "Landing Page 4" 
-    text = "Some example text"
+    title = "Digital Visiting Card" 
+    text = "Minimalistic visiting card which can bring inbound traffic from online visits."
     link = {LandingPage4}
     />
     </div>
@@ -85,8 +85,8 @@ function Bam() {
     <div className = {`card3`}>
     <LandingPage 
     img = {Tour5}
-    title = "Landing Page 5" 
-    text = "Some example text"
+    title = "Landing Page - Tours" 
+    text = "Responsive page designed for travel/tour websites. HTML5, CSS, SASS"
     link = {LandingPage3}
     />
     </div>
@@ -95,8 +95,8 @@ function Bam() {
     <div className = {`card3`}>
     <LandingPage 
     img = {Tour6}
-    title = "Landing Page 6" 
-    text = "Some example text"
+    title = "Split screen Sign-up Page" 
+    text = "Clean page to have a hastlefree Sign-up link for users."
     link = {LandingPage6}
     />
     </div>
