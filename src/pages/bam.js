@@ -26,12 +26,12 @@ import Tour4 from './tour4.png';
 import Tour5 from './tour5.png';
 import Tour6 from './tour6.png';
 
-const PalettteLink = <a href = " https://14richa.github.io/Responsive-Design-Sass/" target = "_blank"> Read More</a>
+const PalettteLink = <a href = "https://14richa.github.io/Responsive-Design-Sass/" target = "_blank"> Read More</a>
 const LandingPage1= <a href = "https://14richa.github.io/UI-Flexbox/" target = "_blank"> Read More </a>
 const LandingPage2 = <a href = "https://14richa.github.io/UI-Grid/" target = "_blank"> Read More </a>
-const LandingPage3 = <a href = " https://14richa.github.io/landing-Page1/" targrt = "_blank"> Read More </a>
-const LandingPage4 = <a href = " https://14richa.github.io/landing-Page2/" target = "_blank"> Read More </a>
-const LandingPage6 = <a href = "https://14richa.github.io/UI-Grid/" target = "_blank"> Read More </a>
+const LandingPage3 = <a href = "https://14richa.github.io/landing-Page1/" targrt = "_blank"> Read More </a>
+const LandingPage4 = <a href = "https://14richa.github.io/landing-Page2/" target = "_blank"> Read More </a>
+const LandingPage6 = <a href = "https://14richa.github.io/landing-Page3/" target = "_blank"> Read More </a>
 const Section = styled.section`
   margin: 64px 0;
   ${media.sm`
