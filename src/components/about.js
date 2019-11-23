@@ -26,6 +26,7 @@ const Big = styled.span`
 
 function About() {
   return (
+    <div>
     <TwoColumns
       leftColumn={<SectionHeading>About</SectionHeading>}
       rightColumn={
@@ -47,6 +48,8 @@ function About() {
         </Fragment>
       }
     />
+    </div>
+    
   )
 }
 
