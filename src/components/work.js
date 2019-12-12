@@ -11,7 +11,7 @@ import LifeTimeLogo from 'img/lifetimelogo'
 import BamLogo from 'img/bamlogo'
 
 const LifeTimeLink = <a href = "https://github.com/14Richa/stream_react" target = "_blank">Github Repo </a>
-const PalettteLink = <a href = "https://videos-react.herokuapp.com" target = "_blank"> Github Repo</a>
+const PalettteLink = <a href = "https://videos-react.herokuapp.com" target = "_blank"> Live Demo</a>
 const KellerkindLink = <a href = "https://14richa.github.io/2019-03-23/casestudy1" target = "_blank">Read More</a>
 const WebScraperLink = <a href = "https://gfycat.com/definitereasonableafghanhound" target = "_blank">Demo Gif</a>
 const SRTLink = <a href = "https://srt-data.netlify.com/" target = "_blank">Live Demo</a>
